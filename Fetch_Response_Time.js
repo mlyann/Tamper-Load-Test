@@ -4,7 +4,7 @@
 // @match       https://blackstoneamoffice.com/editors/Reports/MeetingStatusReport.aspx*
 // @grant       none
 // @version     1.9
-// @author      Gavin Olson
+// @author      Minglai Yang
 // @description 8/2/2024, 3:00:00 PM
 // ==/UserScript==
 

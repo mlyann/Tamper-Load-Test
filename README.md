@@ -42,4 +42,4 @@
 On some websites, the UI proportions or some buttons may appear different, you can reconfigure in the CreateUI() function.
 
 ## Authors and acknowledgment
-Authored by Gavin Olson
+Authored by Minglai Yang
